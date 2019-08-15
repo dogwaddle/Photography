@@ -1,4 +1,4 @@
-#Script Structure
+# Script Structure
 
 ## Beginning, Middle, End
 How much of each of these do I include in my videos in the name of being percise?
